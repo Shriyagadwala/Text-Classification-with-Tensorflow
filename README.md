@@ -1,1 +1,1 @@
-# Text-Classification-with-Tensorflow
+This project implements a Text Classification model using TensorFlow, designed to categorize text into predefined classes. It uses deep learning techniques such as embeddings and neural networks to automatically classify text data, which can be applied to tasks like sentiment analysis.
